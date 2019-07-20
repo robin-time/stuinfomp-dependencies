@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <name>stuinfomp-dependencies</name>
-    <inceptionYear>2019-Now</inceptionYear>
+
 
     <properties>
         <!-- Environment Settings -->
